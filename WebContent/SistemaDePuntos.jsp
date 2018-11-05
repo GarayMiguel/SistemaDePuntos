@@ -8,6 +8,13 @@
 </head>
 
 <body>
-<input type="button" value="Reproducir Canciones">
+<div><input type="button" value="Reproducir Canciones"></div>
+<div><input type="button" value="Generar Eventos"></div>
+<div><input type="button" value="Compartir Evento"></div>
+<div><input type="button" value="Compartir en Facebook"></div>
+<div><input type="button" value="Votar por canciones"></div>
+<div><input type="button" value="Subir Canciones"></div>
+<div><input type="button" value="Permanecer en el sitio 5 minutos"></div>
+
 </body>
 </html>

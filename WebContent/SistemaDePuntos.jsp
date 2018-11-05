@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Sistema de Puntos</title>
 </head>
-<body>
 
+<body>
+<input type="button" value="Reproducir Canciones">
 </body>
 </html>

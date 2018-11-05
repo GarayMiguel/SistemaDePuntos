@@ -9,4 +9,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>SistemaDePuntosSerlvet</display-name>
+    <servlet-name>SistemaDePuntosSerlvet</servlet-name>
+    <servlet-class>sistemaDePuntos.SistemaDePuntosSerlvet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SistemaDePuntosSerlvet</servlet-name>
+    <url-pattern>/SistemaDePuntosSerlvet</url-pattern>
+  </servlet-mapping>
 </web-app>
